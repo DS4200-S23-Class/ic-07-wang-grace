@@ -1,7 +1,7 @@
 # ic-07
 ic-07 - Intro to D3 Part 1
 
-Link to GitHub Pages: `[https://ds4200-s23-class.github.io/ic-07-wang-grace/]`
+Link to GitHub Pages: [https://ds4200-s23-class.github.io/ic-07-wang-grace/](https://ds4200-s23-class.github.io/ic-07-wang-grace/)
 
 ## Purpose
 
